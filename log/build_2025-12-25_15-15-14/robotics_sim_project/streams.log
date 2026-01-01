@@ -1,0 +1,49 @@
+[0.027s] Invoking command in '/home/hasnae/ros2_ws7/build/robotics_sim_project': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hasnae/ros2_ws6/install/robot_actions:/home/hasnae/ros2_ws3/install/simple_params:/home/hasnae/ros2_ws3/install/fleet_manager:/home/hasnae/ros2_ws1/install/service_practice:/home/hasnae/ros2_ws/install/my_first_package:/opt/ros/humble /usr/bin/cmake /home/hasnae/ros2_ws7/src/robotics_sim_project -DCMAKE_INSTALL_PREFIX=/home/hasnae/ros2_ws7/install/robotics_sim_project
+[0.407s] -- The C compiler identification is GNU 11.4.0
+[0.629s] -- The CXX compiler identification is GNU 11.4.0
+[0.659s] -- Detecting C compiler ABI info
+[0.829s] -- Detecting C compiler ABI info - done
+[0.841s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.844s] -- Detecting C compile features
+[0.846s] -- Detecting C compile features - done
+[0.853s] -- Detecting CXX compiler ABI info
+[1.022s] -- Detecting CXX compiler ABI info - done
+[1.043s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.043s] -- Detecting CXX compile features
+[1.043s] -- Detecting CXX compile features - done
+[1.059s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.468s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.740s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.864s] -- Configuring done
+[1.869s] -- Generating done
+[1.870s] -- Build files have been written to: /home/hasnae/ros2_ws7/build/robotics_sim_project
+[1.880s] Invoked command in '/home/hasnae/ros2_ws7/build/robotics_sim_project' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hasnae/ros2_ws6/install/robot_actions:/home/hasnae/ros2_ws3/install/simple_params:/home/hasnae/ros2_ws3/install/fleet_manager:/home/hasnae/ros2_ws1/install/service_practice:/home/hasnae/ros2_ws/install/my_first_package:/opt/ros/humble /usr/bin/cmake /home/hasnae/ros2_ws7/src/robotics_sim_project -DCMAKE_INSTALL_PREFIX=/home/hasnae/ros2_ws7/install/robotics_sim_project
+[1.885s] Invoking command in '/home/hasnae/ros2_ws7/build/robotics_sim_project': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hasnae/ros2_ws6/install/robot_actions:/home/hasnae/ros2_ws3/install/simple_params:/home/hasnae/ros2_ws3/install/fleet_manager:/home/hasnae/ros2_ws1/install/service_practice:/home/hasnae/ros2_ws/install/my_first_package:/opt/ros/humble /usr/bin/cmake --build /home/hasnae/ros2_ws7/build/robotics_sim_project -- -j2 -l2
+[1.970s] Invoked command in '/home/hasnae/ros2_ws7/build/robotics_sim_project' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hasnae/ros2_ws6/install/robot_actions:/home/hasnae/ros2_ws3/install/simple_params:/home/hasnae/ros2_ws3/install/fleet_manager:/home/hasnae/ros2_ws1/install/service_practice:/home/hasnae/ros2_ws/install/my_first_package:/opt/ros/humble /usr/bin/cmake --build /home/hasnae/ros2_ws7/build/robotics_sim_project -- -j2 -l2
+[1.990s] Invoking command in '/home/hasnae/ros2_ws7/build/robotics_sim_project': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hasnae/ros2_ws6/install/robot_actions:/home/hasnae/ros2_ws3/install/simple_params:/home/hasnae/ros2_ws3/install/fleet_manager:/home/hasnae/ros2_ws1/install/service_practice:/home/hasnae/ros2_ws/install/my_first_package:/opt/ros/humble /usr/bin/cmake --install /home/hasnae/ros2_ws7/build/robotics_sim_project
+[2.007s] -- Install configuration: ""
+[2.008s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//worlds
+[2.008s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//worlds/simple_test_world.world
+[2.012s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//launch
+[2.012s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//launch/rviz_display.launch.py
+[2.012s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//urdf
+[2.012s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//urdf/common
+[2.013s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//urdf/simple_arm.urdf
+[2.013s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//urdf/components
+[2.013s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project//meshes
+[2.013s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/ament_index/resource_index/package_run_dependencies/robotics_sim_project
+[2.015s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/ament_index/resource_index/parent_prefix_path/robotics_sim_project
+[2.015s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/environment/ament_prefix_path.sh
+[2.017s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/environment/ament_prefix_path.dsv
+[2.019s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/environment/path.sh
+[2.019s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/environment/path.dsv
+[2.019s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/local_setup.bash
+[2.029s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/local_setup.sh
+[2.029s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/local_setup.zsh
+[2.030s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/local_setup.dsv
+[2.030s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/package.dsv
+[2.030s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/ament_index/resource_index/packages/robotics_sim_project
+[2.030s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/cmake/robotics_sim_projectConfig.cmake
+[2.030s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/cmake/robotics_sim_projectConfig-version.cmake
+[2.030s] -- Installing: /home/hasnae/ros2_ws7/install/robotics_sim_project/share/robotics_sim_project/package.xml
+[2.074s] Invoked command in '/home/hasnae/ros2_ws7/build/robotics_sim_project' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hasnae/ros2_ws6/install/robot_actions:/home/hasnae/ros2_ws3/install/simple_params:/home/hasnae/ros2_ws3/install/fleet_manager:/home/hasnae/ros2_ws1/install/service_practice:/home/hasnae/ros2_ws/install/my_first_package:/opt/ros/humble /usr/bin/cmake --install /home/hasnae/ros2_ws7/build/robotics_sim_project
