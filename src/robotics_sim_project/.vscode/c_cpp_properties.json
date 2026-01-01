@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hasnae/ros2_ws6/install/custom_interfaces/include/**",
+        "/home/hasnae/ros2_ws3/install/simple_interfaces/include/**",
+        "/home/hasnae/ros2_ws3/install/fleet_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/hasnae/ros2_ws7/src/robotics_sim_project/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
